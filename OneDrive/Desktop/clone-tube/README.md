@@ -5,8 +5,8 @@
 - react-icons
 - react-router-dom
 - axios
-- millify  : yüksek sayıları düzenler 3k, 4mn gibi
-- moment : tarih işlemlerini düzenler  2 ay önce gibi 
+- millify  
+- moment : 
 - react-player
 - tailwind
 - 
